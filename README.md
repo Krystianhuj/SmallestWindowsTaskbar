@@ -15,7 +15,7 @@ S2:
 Stay in **Registry Editor**
 And search for:
  `HKLM\SYSTEM\CurrentControlSet\Control\PriorityControl`
-Change: ConvertibleSlateMode to `1`.
+Change: **ConvertibleSlateMode** to `1`.
 
 Its all.
 
