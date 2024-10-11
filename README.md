@@ -21,7 +21,7 @@ Its all.
 
 *If I can figure out how to shrink the taskbar that slides out, I'll edit it there.*
 
-Photos:
+# Photos:
 
 Hidden:![{A450477D-7589-462B-9B70-FADD81D2B967}](https://github.com/user-attachments/assets/fb98ddb3-b40a-49da-886a-2d65ec360eb0)
 
