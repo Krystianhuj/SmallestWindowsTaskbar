@@ -3,7 +3,7 @@
 **Taskbar**:
 
 Safety step:
-Go to: **System properties** > **System Restore** >  **System Restore**
+Go to: **System properties** > **System Protection** 
 And make **backup** there.
 
 S1:
